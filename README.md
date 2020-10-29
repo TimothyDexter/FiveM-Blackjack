@@ -1,4 +1,6 @@
-﻿# Blackjack
+(Preview)[https://youtu.be/oRgWfykNdq8]
+
+# Blackjack
 - Going too far from a game after you have joined/started it will force you to quit.
 - Commands: */bj create|start|find|join|bet|chips|insure|hud|list|kick|end*
   - **create** - create a new blackjack game at your current location
