@@ -1,4 +1,4 @@
-(Preview)[https://youtu.be/oRgWfykNdq8]
+[Preview](https://youtu.be/oRgWfykNdq8)
 
 # Blackjack
 - Going too far from a game after you have joined/started it will force you to quit.
